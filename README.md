@@ -1,4 +1,4 @@
-# Practical 7Dhamat Backend
+# Practical 7 Backend
 
 This workspace now includes a Node.js backend for JWT authentication, protected routes, image upload, validation, and a mock payment endpoint.
 
